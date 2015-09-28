@@ -1,0 +1,44 @@
+
+body {
+	font: 16px Helvetica, Sans-Serif;
+	background-image: url(agsquare.png);
+  width: 600px
+  center: auto;
+}
+
+#resume {
+  width: 800px;
+  margin: 40px auto 60px;
+}
+
+#photo {
+  float: right;
+  size: 55px;
+}
+
+.name_contact hr { 
+    position: relative;
+  	top: 91px;
+  	left: 55px;
+
+    display: inline;
+    height: 50px;
+    width: 100;
+    color: #8C001A;
+    background-color: #8C001A;  	
+}
+
+h3 {
+  border-bottom: 1px solid #999;
+}
+
+h4{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+#bottom p {
+  margin-right: 5%;
+  margin-left: 5%;
+}
+
